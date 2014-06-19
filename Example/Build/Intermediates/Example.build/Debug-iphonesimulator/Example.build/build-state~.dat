@@ -1,0 +1,408 @@
+TExample
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Script-4167691010F04911BF280600.sh
+cProcessPCH /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Example-Prefix-ewalsevyqeshruhhimvzjlxzxazi/Example-Prefix.pch.pch Example/Example-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.o /Users/Max/SCRSidewaysBarGraph/Example/Example/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/SCRViewController.o /Users/Max/SCRSidewaysBarGraph/Example/Example/SCRViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/SCRAppDelegate.o /Users/Max/SCRSidewaysBarGraph/Example/Example/SCRAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/Example normal i386
+cCopyStringsFile /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/en.lproj/InfoPlist.strings Example/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/Max/SCRSidewaysBarGraph/Example/Example/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app /Users/Max/SCRSidewaysBarGraph/Example/Example/Images.xcassets
+cProcessInfoPlistFile /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/Info.plist /Users/Max/SCRSidewaysBarGraph/Example/Example/Example-Info.plist
+cGenerateDSYMFile /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app.dSYM /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/Example
+cPhaseScriptExecution Copy\ Pods\ Resources /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Script-824822BB224F475AADE4F089.sh
+cTouch /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534723F50000000000000198
+t1397171189
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531ED37A00000000000003B4
+t1394529146
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531ED37D000000000000019E
+t1394529149
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000534723CB0000000000446820
+t1397171147
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531ED37F000000000088D8C0
+t1394529151
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531ED3820000000001F1DE10
+t1394529154
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531ED38C0000000000000ADC
+t1394529164
+s2780
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/Example.LinkFileList
+c0000000053A36D6B00000000000001AF
+t1403219307
+s431
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/SCRAppDelegate.o
+t1403219307
+s62496
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/SCRViewController.o
+t1403219307
+s45216
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.o
+t1403219307
+s3536
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Script-4167691010F04911BF280600.sh
+c0000000053A36D6B0000000000000103
+t1403219307
+s259
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Script-824822BB224F475AADE4F089.sh
+c0000000053A36D6B0000000000000037
+t1403219307
+s55
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/assetcatalog_dependencies.txt
+t1403219308
+s374
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/assetcatalog_generated_info.plist
+t1403219308
+s525
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Example-Prefix-ewalsevyqeshruhhimvzjlxzxazi/Example-Prefix.pch.pch
+t1403219307
+s122188
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app
+t1403219308
+s306
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app.dSYM
+t2
+s0
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/Base.lproj/Main.storyboardc
+t1403219307
+s170
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/Example
+t1403219307
+s44780
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/Info.plist
+t1403219308
+s1014
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/PkgInfo
+t1403219308
+s8
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/en.lproj/InfoPlist.strings
+t1403219307
+s42
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/libPods-Example.a
+c0000000053A36D6B0000000000014EF0
+t1403219307
+s85744
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Example/Base.lproj/Main.storyboard
+c0000000053A36AA7000000000000071E
+t1403218599
+s1822
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Example/Example-Info.plist
+c0000000053A36AA700000000000004CA
+t1403218599
+s1226
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Example/Example-Prefix.pch
+c0000000053A36AA70000000000000158
+t1403218599
+s344
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Example/Images.xcassets
+c0000000053A36AA70000000000000088
+t1403218599
+s136
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Example/SCRAppDelegate.m
+c0000000053A36AA700000000000007E1
+t1403218599
+s2017
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Example/SCRViewController.m
+c0000000053A36D6800000000000004F2
+t1403219304
+s1266
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Example/en.lproj/InfoPlist.strings
+c0000000053A36AA7000000000000002D
+t1403218599
+s45
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Example/main.m
+c0000000053A36AA70000000000000158
+t1403218599
+s344
+
+CBuild AST from /Users/Max/SCRSidewaysBarGraph/Example/Example/SCRAppDelegate.m
+r0
+
+CBuild AST from /Users/Max/SCRSidewaysBarGraph/Example/Example/SCRViewController.m
+r0
+
+CBuild AST from /Users/Max/SCRSidewaysBarGraph/Example/Example/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies758f40eba453b941^50fc40eba453b941^---0#1#1#--18"Check dependencies36"CBED60B8-D29B-49D2-9D6D-5BA75D2EB2B2-
+
+CCompileAssetCatalog /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app /Users/Max/SCRSidewaysBarGraph/Example/Example/Images.xcassets
+s424912107.558140
+e424912108.232675
+r1
+xCompileAssetCatalog
+x/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app
+x/Users/Max/SCRSidewaysBarGraph/Example/Example/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/LaunchImage-700-568h@2x.png
+o/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/Assets.car
+o/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Example.app Example/Images.xcassets92"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Example.app Example/Images.xcassetsd4ef8eeba453b941^60913beca453b941^-402"/* com.apple.actool.compilation-results *//Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/LaunchImage-700-568h@2x.png/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/Assets.car/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@70"file:///Users/Max/SCRSidewaysBarGraph/Example/Example/Images.xcassets/0000000000000000^1138"CompileAssetCatalog Build/Products/Debug-iphonesimulator/Example.app Example/Images.xcassets    cd /Users/Max/SCRSidewaysBarGraph/Example    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app /Users/Max/SCRSidewaysBarGraph/Example/Example/Images.xcassets36"144E62C1-15D7-4D01-B070-9565D4A5F5E9-
+bE1014C10-CA5E-4081-A87A-94AE9DDE7482
+
+CCompileC Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/SCRAppDelegate.o /Users/Max/SCRSidewaysBarGraph/Example/Example/SCRAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424912107.439879
+e424912107.521857
+r1
+xCompileC
+xBuild/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/SCRAppDelegate.o
+x/Users/Max/SCRSidewaysBarGraph/Example/Example/SCRAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Max/SCRSidewaysBarGraph/Example/Example/SCRAppDelegate.m
+d/Users/Max/SCRSidewaysBarGraph/Example/Example/SCRAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/Max/SCRSidewaysBarGraph/Example/Example/SCRAppDelegate.m208"CompileC Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/SCRAppDelegate.o Example/SCRAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerb0ac70eba453b941^849a85eba453b941^---0#0#1#-19%DVTDocumentLocation2@70"file:///Users/Max/SCRSidewaysBarGraph/Example/Example/SCRAppDelegate.m0000000000000000^3858"CompileC Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/SCRAppDelegate.o Example/SCRAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Max/SCRSidewaysBarGraph/Example    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Max/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Example-generated-files.hmap -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Example-own-target-headers.hmap -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Example-all-target-headers.hmap -iquote /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Example-project-headers.hmap -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/include -I/Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers -I/Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers/SCRSidewaysBarGraph -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/DerivedSources/i386 -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/DerivedSources -F/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator -isystem /Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers -isystem /Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers/SCRSidewaysBarGraph -include /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Example-Prefix-ewalsevyqeshruhhimvzjlxzxazi/Example-Prefix.pch -MMD -MT dependencies -MF /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/SCRAppDelegate.d --serialize-diagnostics /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/SCRAppDelegate.dia -c /Users/Max/SCRSidewaysBarGraph/Example/Example/SCRAppDelegate.m -o /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/SCRAppDelegate.o36"BC5B525D-F494-42B4-9452-6F16A8E8DFF9-
+bE1014C10-CA5E-4081-A87A-94AE9DDE7482
+
+CCompileC Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/SCRViewController.o /Users/Max/SCRSidewaysBarGraph/Example/Example/SCRViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424912107.439641
+e424912107.515357
+r1
+xCompileC
+xBuild/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/SCRViewController.o
+x/Users/Max/SCRSidewaysBarGraph/Example/Example/SCRViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Max/SCRSidewaysBarGraph/Example/Example/SCRViewController.m
+d/Users/Max/SCRSidewaysBarGraph/Example/Example/SCRViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Compile /Users/Max/SCRSidewaysBarGraph/Example/Example/SCRViewController.m214"CompileC Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/SCRViewController.o Example/SCRViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler459e70eba453b941^edf083eba453b941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/Max/SCRSidewaysBarGraph/Example/Example/SCRViewController.m0000000000000000^3876"CompileC Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/SCRViewController.o Example/SCRViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Max/SCRSidewaysBarGraph/Example    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Max/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Example-generated-files.hmap -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Example-own-target-headers.hmap -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Example-all-target-headers.hmap -iquote /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Example-project-headers.hmap -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/include -I/Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers -I/Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers/SCRSidewaysBarGraph -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/DerivedSources/i386 -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/DerivedSources -F/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator -isystem /Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers -isystem /Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers/SCRSidewaysBarGraph -include /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Example-Prefix-ewalsevyqeshruhhimvzjlxzxazi/Example-Prefix.pch -MMD -MT dependencies -MF /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/SCRViewController.d --serialize-diagnostics /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/SCRViewController.dia -c /Users/Max/SCRSidewaysBarGraph/Example/Example/SCRViewController.m -o /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/SCRViewController.o36"DC9EF81F-FF3C-45DB-A7FF-9F421DB5DDB6-
+bE1014C10-CA5E-4081-A87A-94AE9DDE7482
+
+CCompileC Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.o /Users/Max/SCRSidewaysBarGraph/Example/Example/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424912107.439470
+e424912107.475995
+r1
+xCompileC
+xBuild/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.o
+x/Users/Max/SCRSidewaysBarGraph/Example/Example/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Max/SCRSidewaysBarGraph/Example/Example/main.m
+d/Users/Max/SCRSidewaysBarGraph/Example/Example/SCRAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/Max/SCRSidewaysBarGraph/Example/Example/main.m188"CompileC Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.o Example/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler539770eba453b941^55db79eba453b941^---0#0#1#-19%DVTDocumentLocation2@60"file:///Users/Max/SCRSidewaysBarGraph/Example/Example/main.m0000000000000000^3798"CompileC Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.o Example/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Max/SCRSidewaysBarGraph/Example    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Max/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Example-generated-files.hmap -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Example-own-target-headers.hmap -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Example-all-target-headers.hmap -iquote /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Example-project-headers.hmap -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/include -I/Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers -I/Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers/SCRSidewaysBarGraph -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/DerivedSources/i386 -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/DerivedSources -F/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator -isystem /Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers -isystem /Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers/SCRSidewaysBarGraph -include /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Example-Prefix-ewalsevyqeshruhhimvzjlxzxazi/Example-Prefix.pch -MMD -MT dependencies -MF /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.dia -c /Users/Max/SCRSidewaysBarGraph/Example/Example/main.m -o /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.o36"D353762E-48BB-45F6-8F86-68AB7D0AF3B1-
+bE1014C10-CA5E-4081-A87A-94AE9DDE7482
+
+CCompileStoryboard /Users/Max/SCRSidewaysBarGraph/Example/Example/Base.lproj/Main.storyboard
+s424912107.557850
+e424912107.860374
+r1
+xCompileStoryboard
+x/Users/Max/SCRSidewaysBarGraph/Example/Example/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"CompileStoryboard Example/Base.lproj/Main.storyboard52"CompileStoryboard Example/Base.lproj/Main.storyboardc2dc8eeba453b941^5342dceba453b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/Max/SCRSidewaysBarGraph/Example/Example/Base.lproj/Main.storyboard0000000000000000^839"CompileStoryboard Example/Base.lproj/Main.storyboard    cd /Users/Max/SCRSidewaysBarGraph/Example    export IBSC_MINIMUM_COMPATIBILITY_VERSION=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/Base.lproj/Main.storyboardc /Users/Max/SCRSidewaysBarGraph/Example/Example/Base.lproj/Main.storyboard36"8C619AB1-39B8-4331-978B-EB9DC5AE59E6-
+bE1014C10-CA5E-4081-A87A-94AE9DDE7482
+
+CCopyStringsFile /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/en.lproj/InfoPlist.strings Example/en.lproj/InfoPlist.strings
+s424912107.557716
+e424912107.558813
+r1
+xCopyStringsFile
+x/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/en.lproj/InfoPlist.strings
+xExample/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy Example/en.lproj/InfoPlist.strings126"CopyStringsFile Build/Products/Debug-iphonesimulator/Example.app/en.lproj/InfoPlist.strings Example/en.lproj/InfoPlist.stringse9d78eeba453b941^e50e8feba453b941^---0#0#1#-19%DVTDocumentLocation2@80"file:///Users/Max/SCRSidewaysBarGraph/Example/Example/en.lproj/InfoPlist.strings0000000000000000^593"CopyStringsFile Build/Products/Debug-iphonesimulator/Example.app/en.lproj/InfoPlist.strings Example/en.lproj/InfoPlist.strings    cd /Users/Max/SCRSidewaysBarGraph/Example    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/en.lproj -- Example/en.lproj/InfoPlist.strings36"5D67838B-4FFF-4CFF-8F41-25FC3827DA97-
+bE1014C10-CA5E-4081-A87A-94AE9DDE7482
+
+CGenerateDSYMFile /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app.dSYM /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/Example
+s424912108.234916
+e424912108.248581
+r1
+xGenerateDSYMFile
+x/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app.dSYM
+x/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/Example
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Generate /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app.dSYM127"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Example.app.dSYM Build/Products/Debug-iphonesimulator/Example.app/Example282d3ceca453b941^fda33feca453b941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app.dSYM00344073deffdf42^661"GenerateDSYMFile Build/Products/Debug-iphonesimulator/Example.app.dSYM Build/Products/Debug-iphonesimulator/Example.app/Example    cd /Users/Max/SCRSidewaysBarGraph/Example    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/Example -o /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app.dSYM36"DA0A012F-CF9E-4117-9D74-44727D8E0FAF-
+bE1014C10-CA5E-4081-A87A-94AE9DDE7482
+
+CLd /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/Example normal i386
+s424912107.522562
+e424912107.557015
+r1
+xLd
+x/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/Example
+xnormal
+xi386
+d/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/Example.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/main.o
+d/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/SCRViewController.o
+d/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/SCRAppDelegate.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/libPods-Example.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Link /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/Example71"Ld Build/Products/Debug-iphonesimulator/Example.app/Example normal i3868cd685eba453b941^3d9a8eeba453b941^---0#0#1#--1432"Ld Build/Products/Debug-iphonesimulator/Example.app/Example normal i386    cd /Users/Max/SCRSidewaysBarGraph/Example    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator -F/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator -filelist /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/Example.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework QuartzCore -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -lPods-Example -Xlinker -dependency_info -Xlinker /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Objects-normal/i386/Example_dependency_info.dat -o /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/Example36"4BE6AE71-DC72-410F-B4D0-1745540A9726-
+bE1014C10-CA5E-4081-A87A-94AE9DDE7482
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Script-4167691010F04911BF280600.sh
+s424912107.254779
+e424912107.265329
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Script-4167691010F04911BF280600.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'152"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Script-4167691010F04911BF280600.shdc7e41eba453b941^74ed43eba453b941^---0#0#1#--358"PhaseScriptExecution Check\ Pods\ Manifest.lock Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Script-4167691010F04911BF280600.sh    cd /Users/Max/SCRSidewaysBarGraph/Example    /bin/sh -c /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Script-4167691010F04911BF280600.sh36"60445934-1E3C-448B-BB92-9A96F6A24D0B-
+bE1014C10-CA5E-4081-A87A-94AE9DDE7482
+
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Script-824822BB224F475AADE4F089.sh
+s424912108.249434
+e424912108.549076
+r1
+xPhaseScriptExecution
+xCopy Pods Resources
+x/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Script-824822BB224F475AADE4F089.sh
+obuilding file list ... done
+o
+osent 29 bytes  received 20 bytes  98.00 bytes/sec
+ototal size is 0  speedup is 0.00
+o/* com.apple.actool.compilation-results */
+o/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/Assets.car
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Run custom shell script 'Copy Pods Resources'147"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Script-824822BB224F475AADE4F089.sh9a2240eca453b941^b4908ceca453b941^-255"building file list ... donesent 29 bytes  received 20 bytes  98.00 bytes/sectotal size is 0  speedup is 0.00/* com.apple.actool.compilation-results *//Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/Assets.car5(21%IDEActivityLogMessage2@28"building file list ... done-424912108#0#28#-0#-----2@50"sent 29 bytes  received 20 bytes  98.00 bytes/sec-424912108#29#50#-0#-----2@33"total size is 0  speedup is 0.00-424912108#79#33#-0#-----2@43"/* com.apple.actool.compilation-results */-424912108#112#43#-0#-----2@99"/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/Assets.car-424912108#155#99#-0#-----0#0#1#--353"PhaseScriptExecution Copy\ Pods\ Resources Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Script-824822BB224F475AADE4F089.sh    cd /Users/Max/SCRSidewaysBarGraph/Example    /bin/sh -c /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Script-824822BB224F475AADE4F089.sh36"76DE5A84-B402-495A-9E5B-74E41574DDFA-
+bE1014C10-CA5E-4081-A87A-94AE9DDE7482
+
+CProcessInfoPlistFile /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/Info.plist /Users/Max/SCRSidewaysBarGraph/Example/Example/Example-Info.plist
+s424912108.233100
+e424912108.234576
+r1
+xProcessInfoPlistFile
+x/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/Info.plist
+x/Users/Max/SCRSidewaysBarGraph/Example/Example/Example-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Process /Users/Max/SCRSidewaysBarGraph/Example/Example/Example-Info.plist107"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/Example.app/Info.plist Example/Example-Info.plist5ebc3beca453b941^280e3ceca453b941^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/Max/SCRSidewaysBarGraph/Example/Example/Example-Info.plist0000000000000000^882"ProcessInfoPlistFile Build/Products/Debug-iphonesimulator/Example.app/Info.plist Example/Example-Info.plist    cd /Users/Max/SCRSidewaysBarGraph/Example    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/Max/SCRSidewaysBarGraph/Example/Example/Example-Info.plist -genpkginfo /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/assetcatalog_generated_info.plist -o /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app/Info.plist36"284679D7-4F94-4542-89C9-C3191BC2F183-
+bE1014C10-CA5E-4081-A87A-94AE9DDE7482
+
+CProcessPCH /Users/Max/Library/Developer/Xcode/DerivedData/Example-dxhqqvsmhvddcvdwyfadyvqmkfif/Index/PrecompiledHeaders/Example-Prefix-bypfpskrvalgixasszwmufoebjrs_ast/Example-Prefix.pch.pch Example/Example-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Example-Prefix-ewalsevyqeshruhhimvzjlxzxazi/Example-Prefix.pch.pch Example/Example-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424912107.265988
+e424912107.438833
+r1
+xProcessPCH
+x/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Example-Prefix-ewalsevyqeshruhhimvzjlxzxazi/Example-Prefix.pch.pch
+xExample/Example-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Max/SCRSidewaysBarGraph/Example/Example/Example-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Precompile Example/Example-Prefix.pch211"ProcessPCH Build/Intermediates/PrecompiledHeaders/Example-Prefix-ewalsevyqeshruhhimvzjlxzxazi/Example-Prefix.pch.pch Example/Example-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler672a44eba453b941^a75970eba453b941^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/Max/SCRSidewaysBarGraph/Example/Example/Example-Prefix.pch0000000000000000^3713"ProcessPCH Build/Intermediates/PrecompiledHeaders/Example-Prefix-ewalsevyqeshruhhimvzjlxzxazi/Example-Prefix.pch.pch Example/Example-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Max/SCRSidewaysBarGraph/Example    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/Max/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Example-generated-files.hmap -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Example-own-target-headers.hmap -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Example-all-target-headers.hmap -iquote /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/Example-project-headers.hmap -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/include -I/Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers -I/Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers/SCRSidewaysBarGraph -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/DerivedSources/i386 -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Example.build/Debug-iphonesimulator/Example.build/DerivedSources -F/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator -isystem /Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers -isystem /Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers/SCRSidewaysBarGraph --serialize-diagnostics /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Example-Prefix-ewalsevyqeshruhhimvzjlxzxazi/Example-Prefix.pch.dia -MMD -MT dependencies -MF /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Example-Prefix-ewalsevyqeshruhhimvzjlxzxazi/Example-Prefix.pch.d -c /Users/Max/SCRSidewaysBarGraph/Example/Example/Example-Prefix.pch -o /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Example-Prefix-ewalsevyqeshruhhimvzjlxzxazi/Example-Prefix.pch.pch36"B37CD0DF-870B-43F9-B268-52D9B524FDDA-
+bE1014C10-CA5E-4081-A87A-94AE9DDE7482
+
+CTouch /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/Example.app
+r0
+

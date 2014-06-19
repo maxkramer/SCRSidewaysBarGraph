@@ -1,0 +1,10 @@
+PODS:
+  - SCRSidewaysBarGraph (0.0.1)
+
+DEPENDENCIES:
+  - SCRSidewaysBarGraph
+
+SPEC CHECKSUMS:
+  SCRSidewaysBarGraph: d0ef5a317e71044f128cdef611da313dbd4e51f1
+
+COCOAPODS: 0.33.1

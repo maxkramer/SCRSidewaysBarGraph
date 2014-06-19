@@ -1,0 +1,33 @@
+Contents of /Users/Max/SCRSidewaysBarGraph/Example/Pods/Pods-Example-SCRSidewaysBarGraph-prefix.pch
+-x
+objective-c
+-arch
+i386
+-std=gnu99
+-fmodules
+-fmodules-cache-path=/Users/Max/Library/Developer/Xcode/DerivedData/ModuleCache
+-fpascal-strings
+-O0
+-DDEBUG=1
+-DCOCOAPODS=1
+-isysroot
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+-fexceptions
+-fasm-blocks
+-g
+-fobjc-abi-version=2
+-fobjc-legacy-dispatch
+-mios-simulator-version-min=7.0
+-iquote
+-iquote
+-I/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/include
+-I/Users/Max/SCRSidewaysBarGraph/Example/Pods/BuildHeaders
+-I/Users/Max/SCRSidewaysBarGraph/Example/Pods/BuildHeaders/SCRSidewaysBarGraph
+-I/Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers
+-I/Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers/SCRSidewaysBarGraph
+-F/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator
+-fobjc-arc
+i386-apple-darwin13.2.0
+"4.2.1 Compatible Apple LLVM 5.1 (clang-503.0.40)"
+SDK_PRODUCT_BUILD_VERSION=11D167
+11D167

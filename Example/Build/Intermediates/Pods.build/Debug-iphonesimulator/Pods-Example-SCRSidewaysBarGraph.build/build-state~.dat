@@ -1,0 +1,170 @@
+TPods-Example-SCRSidewaysBarGraph
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SCRSidewaysBarGraph-prefix-doujbxqprutpzycacqqpkdwdllql/Pods-Example-SCRSidewaysBarGraph-prefix.pch.pch Pods-Example-SCRSidewaysBarGraph-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SCRSidewaysBarGraph-prefix-girvobciwkrmxabogyoddohquxxf/Pods-Example-SCRSidewaysBarGraph-prefix.pch.pch Pods-Example-SCRSidewaysBarGraph-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Objects-normal/i386/Pods-Example-SCRSidewaysBarGraph-dummy.o /Users/Max/SCRSidewaysBarGraph/Example/Pods/Pods-Example-SCRSidewaysBarGraph-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Objects-normal/i386/SCRSidewaysBarGraph.o /Users/Max/SCRSidewaysBarGraph/Example/Pods/SCRSidewaysBarGraph/src/SCRSidewaysBarGraph.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/libPods-Example-SCRSidewaysBarGraph.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531ED3710000000000A90C10
+t1394529137
+s11078672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000531ED3720000000000649DB0
+t1394529138
+s6593968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c00000000534723F50000000000000198
+t1397171189
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531ED37A00000000000003B4
+t1394529146
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531ED37D000000000000019E
+t1394529149
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531ED38C0000000000000ADC
+t1394529164
+s2780
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Objects-normal/i386/Pods-Example-SCRSidewaysBarGraph-dummy.o
+t1403219307
+s3564
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Objects-normal/i386/Pods-Example-SCRSidewaysBarGraph.LinkFileList
+c0000000053A36D6A000000000000016D
+t1403219306
+s365
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Objects-normal/i386/SCRSidewaysBarGraph.o
+t1403219307
+s77796
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SCRSidewaysBarGraph-prefix-doujbxqprutpzycacqqpkdwdllql/Pods-Example-SCRSidewaysBarGraph-prefix.pch.pch
+t1403219306
+s121852
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SCRSidewaysBarGraph-prefix-girvobciwkrmxabogyoddohquxxf/Pods-Example-SCRSidewaysBarGraph-prefix.pch.pch
+t1403219307
+s122244
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/libPods-Example-SCRSidewaysBarGraph.a
+t2
+s0
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Pods/Pods-Example-SCRSidewaysBarGraph-dummy.m
+c0000000053A36CF500000000000000A8
+t1403219189
+s168
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Pods/Pods-Example-SCRSidewaysBarGraph-prefix.pch
+c0000000053A36CF50000000000000055
+t1403219189
+s85
+
+N/Users/Max/SCRSidewaysBarGraph/Example/Pods/SCRSidewaysBarGraph/src/SCRSidewaysBarGraph.m
+c0000000053A36CF50000000000001656
+t1403219189
+s5718
+
+CBuild AST from /Users/Max/SCRSidewaysBarGraph/Example/Pods/Pods-Example-SCRSidewaysBarGraph-dummy.m
+r0
+
+CBuild AST from /Users/Max/SCRSidewaysBarGraph/Example/Pods/SCRSidewaysBarGraph/src/SCRSidewaysBarGraph.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciese734cbeaa453b941^302dd2eaa453b941^---0#1#1#--18"Check dependencies36"34A5D90A-9D63-4FBB-8BFA-0687D05DD84A-
+
+CCompileC /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Objects-normal/i386/Pods-Example-SCRSidewaysBarGraph-dummy.o /Users/Max/SCRSidewaysBarGraph/Example/Pods/Pods-Example-SCRSidewaysBarGraph-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424912107.003046
+e424912107.046680
+r1
+xCompileC
+x/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Objects-normal/i386/Pods-Example-SCRSidewaysBarGraph-dummy.o
+x/Users/Max/SCRSidewaysBarGraph/Example/Pods/Pods-Example-SCRSidewaysBarGraph-dummy.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Max/SCRSidewaysBarGraph/Example/Pods/Pods-Example-SCRSidewaysBarGraph-dummy.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/Max/SCRSidewaysBarGraph/Example/Pods/Pods-Example-SCRSidewaysBarGraph-dummy.m309"CompileC /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Objects-normal/i386/Pods-Example-SCRSidewaysBarGraph-dummy.o Pods-Example-SCRSidewaysBarGraph-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere4da00eba453b941^cff30beba453b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/Max/SCRSidewaysBarGraph/Example/Pods/Pods-Example-SCRSidewaysBarGraph-dummy.m0000000000000000^4275"CompileC /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Objects-normal/i386/Pods-Example-SCRSidewaysBarGraph-dummy.o Pods-Example-SCRSidewaysBarGraph-dummy.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Max/SCRSidewaysBarGraph/Example/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Max/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Pods-Example-SCRSidewaysBarGraph-generated-files.hmap -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Pods-Example-SCRSidewaysBarGraph-own-target-headers.hmap -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Pods-Example-SCRSidewaysBarGraph-all-target-headers.hmap -iquote /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Pods-Example-SCRSidewaysBarGraph-project-headers.hmap -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/include -I/Users/Max/SCRSidewaysBarGraph/Example/Pods/BuildHeaders -I/Users/Max/SCRSidewaysBarGraph/Example/Pods/BuildHeaders/SCRSidewaysBarGraph -I/Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers -I/Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers/SCRSidewaysBarGraph -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/DerivedSources/i386 -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/DerivedSources -F/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator -include /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SCRSidewaysBarGraph-prefix-doujbxqprutpzycacqqpkdwdllql/Pods-Example-SCRSidewaysBarGraph-prefix.pch -MMD -MT dependencies -MF /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Objects-normal/i386/Pods-Example-SCRSidewaysBarGraph-dummy.d --serialize-diagnostics /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Objects-normal/i386/Pods-Example-SCRSidewaysBarGraph-dummy.dia -c /Users/Max/SCRSidewaysBarGraph/Example/Pods/Pods-Example-SCRSidewaysBarGraph-dummy.m -o /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Objects-normal/i386/Pods-Example-SCRSidewaysBarGraph-dummy.o36"83AC2450-DAF3-4F71-A0DD-8A03F846D7F0-
+b28BC8450-FC4D-4187-B6CA-40C3BF951A71
+
+CCompileC /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Objects-normal/i386/SCRSidewaysBarGraph.o /Users/Max/SCRSidewaysBarGraph/Example/Pods/SCRSidewaysBarGraph/src/SCRSidewaysBarGraph.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424912107.003299
+e424912107.115164
+r1
+xCompileC
+x/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Objects-normal/i386/SCRSidewaysBarGraph.o
+x/Users/Max/SCRSidewaysBarGraph/Example/Pods/SCRSidewaysBarGraph/src/SCRSidewaysBarGraph.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Max/SCRSidewaysBarGraph/Example/Pods/SCRSidewaysBarGraph/src/SCRSidewaysBarGraph.m
+d/Users/Max/SCRSidewaysBarGraph/Example/Pods/SCRSidewaysBarGraph/src/SCRSidewaysBarGraph.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Compile /Users/Max/SCRSidewaysBarGraph/Example/Pods/SCRSidewaysBarGraph/src/SCRSidewaysBarGraph.m295"CompileC /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Objects-normal/i386/SCRSidewaysBarGraph.o SCRSidewaysBarGraph/src/SCRSidewaysBarGraph.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc9e800eba453b941^187d1deba453b941^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/Max/SCRSidewaysBarGraph/Example/Pods/SCRSidewaysBarGraph/src/SCRSidewaysBarGraph.m0000000000000000^4220"CompileC /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Objects-normal/i386/SCRSidewaysBarGraph.o SCRSidewaysBarGraph/src/SCRSidewaysBarGraph.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Max/SCRSidewaysBarGraph/Example/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Max/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Pods-Example-SCRSidewaysBarGraph-generated-files.hmap -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Pods-Example-SCRSidewaysBarGraph-own-target-headers.hmap -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Pods-Example-SCRSidewaysBarGraph-all-target-headers.hmap -iquote /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Pods-Example-SCRSidewaysBarGraph-project-headers.hmap -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/include -I/Users/Max/SCRSidewaysBarGraph/Example/Pods/BuildHeaders -I/Users/Max/SCRSidewaysBarGraph/Example/Pods/BuildHeaders/SCRSidewaysBarGraph -I/Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers -I/Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers/SCRSidewaysBarGraph -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/DerivedSources/i386 -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/DerivedSources -F/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator -fobjc-arc -include /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SCRSidewaysBarGraph-prefix-girvobciwkrmxabogyoddohquxxf/Pods-Example-SCRSidewaysBarGraph-prefix.pch -MMD -MT dependencies -MF /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Objects-normal/i386/SCRSidewaysBarGraph.d --serialize-diagnostics /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Objects-normal/i386/SCRSidewaysBarGraph.dia -c /Users/Max/SCRSidewaysBarGraph/Example/Pods/SCRSidewaysBarGraph/src/SCRSidewaysBarGraph.m -o /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Objects-normal/i386/SCRSidewaysBarGraph.o36"65263D6A-3C8E-4CB0-AB48-5D60DCC1DC1C-
+b28BC8450-FC4D-4187-B6CA-40C3BF951A71
+
+CLibtool /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/libPods-Example-SCRSidewaysBarGraph.a normal i386
+s424912107.115944
+e424912107.123554
+r1
+xLibtool
+x/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/libPods-Example-SCRSidewaysBarGraph.a
+xnormal
+xi386
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection133"Libtool /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/libPods-Example-SCRSidewaysBarGraph.a normal i386133"Libtool /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/libPods-Example-SCRSidewaysBarGraph.a normal i38600c41deba453b941^05a21feba453b941^---0#0#1#--1119"Libtool /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/libPods-Example-SCRSidewaysBarGraph.a normal i386    cd /Users/Max/SCRSidewaysBarGraph/Example/Pods    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator -filelist /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Objects-normal/i386/Pods-Example-SCRSidewaysBarGraph.LinkFileList -framework Foundation -framework QuartzCore -o /Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/libPods-Example-SCRSidewaysBarGraph.a36"2A6801F0-17BB-458C-82C9-DB070121DBF1-
+b28BC8450-FC4D-4187-B6CA-40C3BF951A71
+
+CProcessPCH /Users/Max/Library/Developer/Xcode/DerivedData/Example-dxhqqvsmhvddcvdwyfadyvqmkfif/Index/PrecompiledHeaders/Pods-Example-SCRSidewaysBarGraph-prefix-dkkcfqcjywjsnggvisgccfbnbccu_ast/Pods-Example-SCRSidewaysBarGraph-prefix.pch.pch Pods-Example-SCRSidewaysBarGraph-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/Max/Library/Developer/Xcode/DerivedData/Example-dxhqqvsmhvddcvdwyfadyvqmkfif/Index/PrecompiledHeaders/Pods-Example-SCRSidewaysBarGraph-prefix-gdhfvqjgvhahpedhhngguuawqoml_ast/Pods-Example-SCRSidewaysBarGraph-prefix.pch.pch Pods-Example-SCRSidewaysBarGraph-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SCRSidewaysBarGraph-prefix-doujbxqprutpzycacqqpkdwdllql/Pods-Example-SCRSidewaysBarGraph-prefix.pch.pch Pods-Example-SCRSidewaysBarGraph-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424912106.821683
+e424912106.995334
+r1
+xProcessPCH
+x/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SCRSidewaysBarGraph-prefix-doujbxqprutpzycacqqpkdwdllql/Pods-Example-SCRSidewaysBarGraph-prefix.pch.pch
+xPods-Example-SCRSidewaysBarGraph-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Max/SCRSidewaysBarGraph/Example/Pods/Pods-Example-SCRSidewaysBarGraph-prefix.pch
+d/Users/Max/SCRSidewaysBarGraph/Example/Pods/Pods-Example-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Precompile Pods-Example-SCRSidewaysBarGraph-prefix.pch317"ProcessPCH /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SCRSidewaysBarGraph-prefix-doujbxqprutpzycacqqpkdwdllql/Pods-Example-SCRSidewaysBarGraph-prefix.pch.pch Pods-Example-SCRSidewaysBarGraph-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler656ed2eaa453b941^70d0feeaa453b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Max/SCRSidewaysBarGraph/Example/Pods/Pods-Example-SCRSidewaysBarGraph-prefix.pch0000000000000000^4098"ProcessPCH /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SCRSidewaysBarGraph-prefix-doujbxqprutpzycacqqpkdwdllql/Pods-Example-SCRSidewaysBarGraph-prefix.pch.pch Pods-Example-SCRSidewaysBarGraph-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Max/SCRSidewaysBarGraph/Example/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Max/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Pods-Example-SCRSidewaysBarGraph-generated-files.hmap -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Pods-Example-SCRSidewaysBarGraph-own-target-headers.hmap -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Pods-Example-SCRSidewaysBarGraph-all-target-headers.hmap -iquote /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Pods-Example-SCRSidewaysBarGraph-project-headers.hmap -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/include -I/Users/Max/SCRSidewaysBarGraph/Example/Pods/BuildHeaders -I/Users/Max/SCRSidewaysBarGraph/Example/Pods/BuildHeaders/SCRSidewaysBarGraph -I/Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers -I/Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers/SCRSidewaysBarGraph -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/DerivedSources/i386 -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/DerivedSources -F/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SCRSidewaysBarGraph-prefix-doujbxqprutpzycacqqpkdwdllql/Pods-Example-SCRSidewaysBarGraph-prefix.pch.dia -MMD -MT dependencies -MF /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SCRSidewaysBarGraph-prefix-doujbxqprutpzycacqqpkdwdllql/Pods-Example-SCRSidewaysBarGraph-prefix.pch.d -c /Users/Max/SCRSidewaysBarGraph/Example/Pods/Pods-Example-SCRSidewaysBarGraph-prefix.pch -o /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SCRSidewaysBarGraph-prefix-doujbxqprutpzycacqqpkdwdllql/Pods-Example-SCRSidewaysBarGraph-prefix.pch.pch36"E2EF0A22-8407-430F-A158-49FEEE21AC91-
+b28BC8450-FC4D-4187-B6CA-40C3BF951A71
+
+CProcessPCH /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SCRSidewaysBarGraph-prefix-girvobciwkrmxabogyoddohquxxf/Pods-Example-SCRSidewaysBarGraph-prefix.pch.pch Pods-Example-SCRSidewaysBarGraph-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s424912106.821901
+e424912107.002500
+r1
+xProcessPCH
+x/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SCRSidewaysBarGraph-prefix-girvobciwkrmxabogyoddohquxxf/Pods-Example-SCRSidewaysBarGraph-prefix.pch.pch
+xPods-Example-SCRSidewaysBarGraph-prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/Max/SCRSidewaysBarGraph/Example/Pods/Pods-Example-SCRSidewaysBarGraph-prefix.pch
+d/Users/Max/SCRSidewaysBarGraph/Example/Pods/Pods-Example-environment.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Precompile Pods-Example-SCRSidewaysBarGraph-prefix.pch317"ProcessPCH /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SCRSidewaysBarGraph-prefix-girvobciwkrmxabogyoddohquxxf/Pods-Example-SCRSidewaysBarGraph-prefix.pch.pch Pods-Example-SCRSidewaysBarGraph-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler3a78d2eaa453b941^2ba400eba453b941^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/Max/SCRSidewaysBarGraph/Example/Pods/Pods-Example-SCRSidewaysBarGraph-prefix.pch0000000000000000^4109"ProcessPCH /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SCRSidewaysBarGraph-prefix-girvobciwkrmxabogyoddohquxxf/Pods-Example-SCRSidewaysBarGraph-prefix.pch.pch Pods-Example-SCRSidewaysBarGraph-prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Max/SCRSidewaysBarGraph/Example/Pods    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fmodules -fmodules-cache-path=/Users/Max/Library/Developer/Xcode/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -DCOCOAPODS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Pods-Example-SCRSidewaysBarGraph-generated-files.hmap -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Pods-Example-SCRSidewaysBarGraph-own-target-headers.hmap -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Pods-Example-SCRSidewaysBarGraph-all-target-headers.hmap -iquote /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/Pods-Example-SCRSidewaysBarGraph-project-headers.hmap -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator/include -I/Users/Max/SCRSidewaysBarGraph/Example/Pods/BuildHeaders -I/Users/Max/SCRSidewaysBarGraph/Example/Pods/BuildHeaders/SCRSidewaysBarGraph -I/Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers -I/Users/Max/SCRSidewaysBarGraph/Example/Pods/Headers/SCRSidewaysBarGraph -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/DerivedSources/i386 -I/Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-Example-SCRSidewaysBarGraph.build/DerivedSources -F/Users/Max/SCRSidewaysBarGraph/Example/Build/Products/Debug-iphonesimulator -fobjc-arc --serialize-diagnostics /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SCRSidewaysBarGraph-prefix-girvobciwkrmxabogyoddohquxxf/Pods-Example-SCRSidewaysBarGraph-prefix.pch.dia -MMD -MT dependencies -MF /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SCRSidewaysBarGraph-prefix-girvobciwkrmxabogyoddohquxxf/Pods-Example-SCRSidewaysBarGraph-prefix.pch.d -c /Users/Max/SCRSidewaysBarGraph/Example/Pods/Pods-Example-SCRSidewaysBarGraph-prefix.pch -o /Users/Max/SCRSidewaysBarGraph/Example/Build/Intermediates/PrecompiledHeaders/Pods-Example-SCRSidewaysBarGraph-prefix-girvobciwkrmxabogyoddohquxxf/Pods-Example-SCRSidewaysBarGraph-prefix.pch.pch36"0D5AFD09-9308-491E-8249-20C3BEC6894F-
+b28BC8450-FC4D-4187-B6CA-40C3BF951A71
+
