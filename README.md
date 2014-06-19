@@ -21,4 +21,4 @@ pod 'SCRSidewaysBarGraph'
 
 ### Contribution
 
-Please feel free to send a pull request to fix any of the Caveats listed above. This code was written in the car on the way to [Bath University](www.bath.ac.uk/) and I didn't have the concentration to perform dynamic resizing while travelling at over 70mph.
+Please feel free to send a pull request to fix any of the Caveats listed above. This code was written in the car on the way to [Bath University](http://www.bath.ac.uk/) and I didn't have the concentration to perform dynamic resizing while travelling at over 70mph.
