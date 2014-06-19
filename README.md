@@ -18,7 +18,6 @@ pod 'SCRSidewaysBarGraph'
 
 - Titles are not dynamic - the y-axis labels have a fixed-width of 100pt, anything over will overlap the graph. Same for the count labels, however their width varies.
 - Severe lack of animations
-- 
 
 ### Contribution
 
