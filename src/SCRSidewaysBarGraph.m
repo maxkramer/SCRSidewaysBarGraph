@@ -107,7 +107,9 @@ static float topBottomPadding = 10.0f;
     CGContextFillRect(context, rect);
     float xOriginGraphOffset = 0;
     if (self.yAxisLabels) {
-        xOriginGraphOffset = 70.0f + horizontalOffset;
+	NSString *label = self.yAxisLabels[0];
+        CGRect boundingRect = [label boundingRectWithSize:CGSizeMake(150, CGFLOAT_MAX) options:NSStringDrawingUsesLineFragmentOrigin attributes:self.labelTextAttributes context:nil];
+        xOriginGraphOffset = boundingRect.size.width + horizontalOffset;
     }
     if (self.showCount) {
         rightOffset += 10.0f;
