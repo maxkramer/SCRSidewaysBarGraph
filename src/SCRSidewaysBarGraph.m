@@ -85,9 +85,11 @@ static float topBottomPadding = 10.0f;
     
     CGRect fillRect = rect;
     fillRect.size.width = fillRect.size.width * ([self.xValues[index] doubleValue] / self.maxXValue);
-    UIBezierPath *fillBezierPath = [UIBezierPath bezierPathWithRoundedRect:fillRect cornerRadius:1.0f];
-    [self.barFillColor setFill];
-    [fillBezierPath fill];
+    if (fillRect.size.width > 0) {
+        UIBezierPath *fillBezierPath = [UIBezierPath bezierPathWithRoundedRect:fillRect cornerRadius:1.0f];
+        [self.barFillColor setFill];
+        [fillBezierPath fill];
+    }
     CGContextRestoreGState(context);
 }
 
