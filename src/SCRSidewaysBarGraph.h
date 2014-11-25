@@ -10,7 +10,7 @@
 
 @interface SCRSidewaysBarGraph : UIView
 
-- (instancetype)initWithFrame:(CGRect)frame yAxisLabels:(NSArray *)yAxis xValues:(NSArray *)xValues maxXValue:(int)maxXValue showCount:(BOOL)showCount;
+- (instancetype)initWithFrame:(CGRect)frame yAxisLabels:(NSArray *)yAxis xValues:(NSArray *)xValues maxXValue:(int)maxXValue showCount:(BOOL)showCount labelMargin:(int)labelMargin;
 
 + (float)expectedHeightWithBars:(NSUInteger)noOfBars;
 
@@ -19,5 +19,6 @@
 @property (nonatomic) BOOL showCount;
 @property (nonatomic, strong) UI_APPEARANCE_SELECTOR NSDictionary *labelTextAttributes, *countTextAttributes;
 @property (nonatomic, strong) UI_APPEARANCE_SELECTOR UIColor *barBackgroundColor, *barFillColor;
+@property (nonatomic) int labelMargin;
 
 @end
