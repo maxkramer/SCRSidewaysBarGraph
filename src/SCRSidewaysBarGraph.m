@@ -11,7 +11,7 @@
 static float horizontalOffset = 20.0f;
 static float rightOffset = 20.0f;
 static float barHeight = 15.0f;
-static float barSpacing = 5.0f;
+static float barSpacing = 8.0f;
 static float topBottomPadding = 10.0f;
 
 @interface SCRSidewaysBarGraph ()
@@ -24,8 +24,9 @@ static float topBottomPadding = 10.0f;
 
 #pragma mark - Initializers
 
-- (instancetype)initWithFrame:(CGRect)frame yAxisLabels:(NSArray *)yAxis xValues:(NSArray *)xValues maxXValue:(int)maxXValue showCount:(BOOL)showCount {
+- (instancetype)initWithFrame:(CGRect)frame yAxisLabels:(NSArray *)yAxis xValues:(NSArray *)xValues maxXValue:(int)maxXValue showCount:(BOOL)showCount labelMargin:(int)labelMargin {
     if ((self = [super initWithFrame:frame])) {
+        self.labelMargin = labelMargin;
         [self setYAxisLabels:yAxis];
         [self setXValues:xValues];
         [self setShowCount:showCount];
@@ -33,7 +34,7 @@ static float topBottomPadding = 10.0f;
         self.backgroundColor = [UIColor whiteColor];
         self.barBackgroundColor = [UIColor lightGrayColor];
         self.barFillColor = [UIColor redColor];
-        self.labelTextAttributes = @{NSFontAttributeName : [UIFont boldSystemFontOfSize:14.0f], NSForegroundColorAttributeName : [UIColor blackColor]};
+        self.labelTextAttributes = @{NSFontAttributeName : [UIFont boldSystemFontOfSize:12.0f], NSForegroundColorAttributeName : [UIColor blackColor]};
         self.countTextAttributes = @{NSFontAttributeName : [UIFont systemFontOfSize:12.0f], NSForegroundColorAttributeName : [UIColor blackColor]};
         self.observableKeyPaths = @[@"barBackgroundColor", @"barFillColor", @"labelFont", @"labelTextAttributes", @"yAxisLabels", @"xValues", @"showCount"];
         [self.observableKeyPaths enumerateObjectsUsingBlock:^(id obj, NSUInteger idx, BOOL *stop) {
@@ -44,11 +45,11 @@ static float topBottomPadding = 10.0f;
 }
 
 - (id)initWithFrame:(CGRect)frame {
-    return [self initWithFrame:frame yAxisLabels:nil xValues:nil maxXValue:1 showCount:NO];
+    return [self initWithFrame:frame yAxisLabels:nil xValues:nil maxXValue:1 showCount:NO labelMargin:0];
 }
 
 - (id)init {
-    return [self initWithFrame:CGRectZero yAxisLabels:nil xValues:nil maxXValue:1 showCount:NO];
+    return [self initWithFrame:CGRectZero yAxisLabels:nil xValues:nil maxXValue:1 showCount:NO labelMargin:0];
 }
 
 #pragma mark - Class Method
@@ -111,7 +112,8 @@ static float topBottomPadding = 10.0f;
     if (self.yAxisLabels) {
 	NSString *label = self.yAxisLabels[0];
         CGRect boundingRect = [label boundingRectWithSize:CGSizeMake(150, CGFLOAT_MAX) options:NSStringDrawingUsesLineFragmentOrigin attributes:self.labelTextAttributes context:nil];
-        xOriginGraphOffset = boundingRect.size.width + horizontalOffset;
+        
+        xOriginGraphOffset = boundingRect.size.width + horizontalOffset + self.labelMargin;
     }
     if (self.showCount) {
         rightOffset += 10.0f;
